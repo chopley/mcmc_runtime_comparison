@@ -1,5 +1,5 @@
 # Modify as desired; will be created if it does not exist
-target_dir="/media/martin/big_extra_space/pymc_vs_stan/rerun_20_12_2021/fits"
+target_dir="/home/charles/mcmc_runtime_comparison/pymc_vs_stan/rerun_20_12_2021/fits"
 
 random_seed=2
 
